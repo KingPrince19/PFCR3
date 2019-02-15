@@ -1480,6 +1480,7 @@ WR,Stacy Coley,24,2017,67,56,90,83,91,78,0.6,4
 WR,Cody Latimer,26,2014,72,65,88,79,90,55,2.5,1
 WR,Russell Shepard,28,2013,72,82,87,81,90,74,1.3,1
 WR,Sterling Shepard,25,2016,82,87,91,88,90,83,1.5,4
+S,Jashan Prince,18,2018,100,100,100,100,100,100,0.0,25
 END_PLAYERS
 New Orleans Saints, NO
 OL,Will Clapp,23,2018,62,62,84,76,73,73,0.6,4
